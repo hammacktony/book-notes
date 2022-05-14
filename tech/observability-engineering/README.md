@@ -10,3 +10,4 @@
 
 ## Notes
 - [Chapter 1](./chapters/1.md)
+- [Chapter 2](./chapters/2.md)
