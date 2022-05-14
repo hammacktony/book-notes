@@ -5,4 +5,4 @@ Notes on different books I read...
 - [tech](./tech)
 
 ## Books
-- [Observability Engineering - Achieving Production Excellence](./tech/observability-Engineering)
+- [Observability Engineering - Achieving Production Excellence](./tech/observability-engineering)
